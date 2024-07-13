@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NES_Cart")(type "KiCad")(uri "${KIPRJMOD}/NES_Cart_FC_Console.pretty/NES_Cart.kicad_sym")(options "")(descr ""))
+)
